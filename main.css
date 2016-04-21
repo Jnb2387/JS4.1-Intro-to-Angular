@@ -1,0 +1,22 @@
+button{
+    position: absolute;
+    top:50%;
+    width:200px;
+    height:125px;
+    border-radius:12px;
+    background-color:dodgerblue;
+    color:yellow;
+
+}
+#btn{
+   text-align:center;
+
+}
+
+.fixit{
+    position:fixed;
+    top:40%;
+    background-color: red;
+    left:50%;
+    width:300px;
+}
